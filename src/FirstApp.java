@@ -1,5 +1,6 @@
 public class FirstApp {
     public static void main(String[] args) {
-        System.out.println("Test github, create new branch from master. Commit and push.");
+        System.out.println("Second changes in new branch");
+        System.out.println("Check github commit");
     }
 }
